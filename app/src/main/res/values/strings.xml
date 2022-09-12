@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToyWeatherCheck</string>
+    <string name="search_city">도시 이름을 입력하세요</string>
+    <string name="city_name">Name : %1$s</string>
+    <string name="city_country">Country : %1$s</string>
+    <string name="city_weather">Weather : %1$s</string>
+    <string name="city_humidity">Humidity : %1$s</string>
+    <string name="city_celsius">Celsius : %1$s</string>
+</resources>
